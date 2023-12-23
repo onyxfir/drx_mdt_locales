@@ -42,7 +42,7 @@
           "PROCESSED": "Behandlet",
           "CHARGES": {
             "SELECTED": "Valgte ",
-            "ALL_CHARGES": "Alle anklager",
+            "ALL_CHARGES": "Alle siktelser",
             "NONE_FOUND": "Ingen funnet"
           }
         }
@@ -128,7 +128,7 @@
     },
 
     "CHARGE": {
-        "LABEL": "Anklager"
+        "LABEL": "Lovdata"
       },
       "CONFIGURATIONS": {
         "LABEL": "Konfigurasjoner",
@@ -248,14 +248,14 @@
               }
             },
             "CHARGES": {
-              "VIEW": "Tilgang til anklagesiden"
+              "VIEW": "Tilgang til Lovdata"
             }
           }
         },
         "CHARGES": {
-          "LABEL": "Anklager",
+          "LABEL": "Lovdata",
           "CHARGES": {
-            "LABEL": "Anklager"
+            "LABEL": "Lovdata"
           },
           "CATEGORIES": {
             "LABEL": "Kategorier"
