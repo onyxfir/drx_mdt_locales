@@ -3,8 +3,8 @@
       "LABEL": "Dashbord",
       "RECENT_ACTIVITES": {
         "LABEL": "Siste aktiviteter",
-        "INCIDENT": "Siste hendelser",
-        "REPORT": "Siste rapporter",
+        "INCIDENT": "Siste rapporter",
+        "REPORT": "Siste hendelser",
         "BOLO": "Siste Bolos",
         "WARRANT": "Siste arrestordre",
         "EVIDENCE": "Siste bevis",
@@ -382,8 +382,8 @@
         "GALLERY": "Galleri",
         "OFFICERS": "Involverte offiserer",
         "CITIZENS": "Involverte borgere",
-        "INCIDENTS": "Relaterte hendelser",
-        "REPORTS": "Relaterte rapporter",
+        "INCIDENTS": "Relaterte rapporter",
+        "REPORTS": "Relaterte hendelser",
         "EVIDENCE": "Relaterte bevis",
         "ACTIVITY": "Aktivitet"
       },
