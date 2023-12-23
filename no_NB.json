@@ -21,8 +21,8 @@
       "REVOKE": "Trekke tilbake lisens"
     },
     "INCIDENTS": {
-      "LABEL": "Hendelser",
-      "EDIT": "Rediger hendelse {id}",
+      "LABEL": "Rapporter",
+      "EDIT": "Rediger rapport {id}",
       "CRIMINAL": {
         "LABEL": "Kriminelle skurker",
         "CRIMINALS": {
@@ -49,8 +49,8 @@
       }
     },
     "REPORTS": {
-      "LABEL": "Rapporter",
-      "EDIT": "Rediger rapport {id}"
+      "LABEL": "Hendelser",
+      "EDIT": "Rediger hendelse {id}"
     },
     "BOLOS_WARRANTS": {
       "LABEL": "Bolos & Arrestordrer",
