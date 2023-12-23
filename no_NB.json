@@ -140,7 +140,7 @@
           "CLOCKED_IN": "Innsjekket",
           "CLOCKED_OUT": "Utsjekket",
           "SUSPEND": "Suspender",
-          "FIRE": "Avskjedig"
+          "FIRE": "Gi sparken"
         },
         "ROLES": {
           "LABEL": "Roller",
